@@ -8,4 +8,10 @@
 
 ## Header Section
 - image: [header](https://drive.google.com/file/d/1sIU4UjHmkHBjvOXe0l5a3Ce5-HSOwUeo/view?usp=sharing)
-- solution: 
+- solution: [click](https://docs.google.com/spreadsheets/d/10fKvJn7mBJXO2SuVP6tLEW5AP6icGWHuGJjMp7dPAzs/edit?usp=sharing)
+
+- -------------------------------------------------------------------------------------------------------------------------
+
+## Footer Section
+- FRD: [footer](https://drive.google.com/file/d/129P4dWgmbAnDWe2Qy1WOj-uMQutoOGVZ/view?usp=sharing)
+- solution: [click]()
