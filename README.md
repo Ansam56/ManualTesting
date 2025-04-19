@@ -20,4 +20,4 @@
 
 ## saucedemo Website
 - website: [https://www.saucedemo.com/](https://www.saucedemo.com/)
-- solution : 
+- solution : [click][https://docs.google.com/spreadsheets/d/1IhCJbiWBdalY8gH3uxUADEHPC6_d_n0vHczBem3ZDyU/edit?usp=sharing]
