@@ -29,4 +29,4 @@
 I joined a training project where we worked as a team to develop and test a website. The team included back-end developers, front-end developers, and UI/UX designers, while my role was the QA Engineer. I was responsible for performing manual testing on the website, identifying bugs, reporting issues, and verifying that the implemented features worked correctly and met the project requirements.
 
 - test Cases Report : [click](https://docs.google.com/spreadsheets/d/1EDbII2gt1TazhTNNFxQC1ETtoklWSXbEZ5XIzFp107k/edit?gid=0#gid=0)
-- bog Report : [click](https://docs.google.com/spreadsheets/d/1y4zvnZneuApW6uPagVcZdz9kEVmw9q7XV75LJnHc8-Y/edit?gid=972223930#gid=972223930)
+- bugs Report : [click](https://docs.google.com/spreadsheets/d/1y4zvnZneuApW6uPagVcZdz9kEVmw9q7XV75LJnHc8-Y/edit?gid=972223930#gid=972223930)
